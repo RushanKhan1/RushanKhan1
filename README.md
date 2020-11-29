@@ -15,7 +15,7 @@
 
 Ahoy! I am Rushan Khan, a passionate full-stack developer and a competitive programmer. I like using technology to solve real world problems and making stuff that helps people. Currently I am a core member at the [Source Code Society](https://github.com/Source-Code-Society) and the Media and Outreach Lead at [CodeChef Amity University Lucknow Chapter](https://www.linkedin.com/company/codechef-aul-chapter) 🧑🏻‍🍳. Apart from programming, I have inclinations toward entrepreneurship, observing business models and reading philosophy.
 
-  <img align="right" alt="GIF" src="code.gif" width="500" height="320" />
+  <img align="right" alt="GIF" src="programming.gif" width="500" height="320" />
   
 **Random stuff about me**
 
