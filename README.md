@@ -20,7 +20,7 @@ Ahoy! I am Rushan Khan, a passionate full-stack developer and a competitive prog
 **Random stuff about me**
 
 - 👨🏽‍💻 I’m currently working on a command line utility.
-- 🌱 I’m currently learning MongoDB.
+- 🌱 I’m currently learning Mongoose.
 - <img src="https://i.imgur.com/B67ppkX.png" alt="Emacs Logo" width="21" height="21"/> I'm a huge emacs shill and acknowledge it to be the one true text editor.
 - 💬 Ask me about anything.
 - 📫 Reach me at: [rushan.khan2000@gmail.com](mailto:rushan.khan2000@gmail.com?subject=[GitHub]%20Source%20Han%20Sans) 
