@@ -1,17 +1,21 @@
 # Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="33px">
 
 <a href="https://twitter.com/RushanKhan15">
-  <img align="left" alt="My Twitter" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="My Twitter" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/rushankhan/">
-  <img align="left" alt="My LinkedIn" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="My LinkedIn" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://t.me/rushankhan1">
-  <img align="left" alt="My Telegram" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+  <img align="left" alt="My Telegram" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a>
+<a href="https://www.dev.to/rushankhan1/">
+  <img align="left" alt="My Dev.to" height="25px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands-1/512/84_Dev_logo_logos-512.png" />
 </a>
 <a href="https://www.instagram.com/rushankhan/">
-  <img align="left" alt="My Instagram" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a> <br /><br /><br />
+  <img align="left" alt="My Instagram" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+ <br /><br /><br />
 
 Ahoy! I am Rushan Khan, a passionate full-stack developer and a competitive programmer. I like using technology to solve real world problems and making stuff that helps people. Currently I am a core member at the [Source Code Society](https://github.com/Source-Code-Society) and the Media and Outreach Lead at [CodeChef Amity University Lucknow Chapter](https://www.linkedin.com/company/codechef-aul-chapter) 🧑🏻‍🍳. Apart from programming, I have inclinations toward entrepreneurship, observing business models and reading philosophy.
 
