@@ -6,11 +6,16 @@
 <a href="https://www.linkedin.com/in/rushankhan/">
   <img align="left" alt="My LinkedIn" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
+
 <a href="https://t.me/rushankhan1">
   <img align="left" alt="My Telegram" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
+ </a>
 <a href="https://www.dev.to/rushankhan1/">
   <img align="left" alt="My Dev.to" height="25px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands-1/512/84_Dev_logo_logos-512.png" />
+</a>
+
+<a href="https://www.hackernoon.com/u/rushankhan">
+  <img align="left" alt="My Hackernoon" height="25px" src="https://hackernoon.com/hn-icon.png" />
 </a>
 <a href="https://www.instagram.com/rushankhan/">
   <img align="left" alt="My Instagram" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
