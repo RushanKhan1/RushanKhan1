@@ -22,7 +22,7 @@
 </a>
  <br /><br /><br />
 
-Ahoy! I am Rushan Khan, a passionate full-stack developer and a competitive programmer. I like using technology to solve real world problems and making stuff that helps people. Currently I am a core member at the [Source Code Society](https://github.com/Source-Code-Society) and the Media and Outreach Lead at [CodeChef Amity University Lucknow Chapter](https://www.linkedin.com/company/codechef-aul-chapter) 🧑🏻‍🍳. Apart from programming, I have inclinations toward entrepreneurship, observing business models and reading philosophy.
+Ahoy! I am Rushan Khan, a passionate full-stack developer and a competitive programmer. I like using technology to solve real world problems and making stuff that helps people. Currently I am a Mentor at [GirlScript Summer of Code 2021](https://gssoc.girlscript.tech/) maintaining the Project [BlogSite](https://github.com/ALPHAVIO/BlogSite), I am also a core member at the [Source Code Society](https://github.com/Source-Code-Society) and the Media and Outreach Lead at [CodeChef Amity University Lucknow Chapter](https://www.linkedin.com/company/codechef-aul-chapter) 🧑🏻‍🍳. Apart from programming, I have inclinations toward entrepreneurship, observing business models and reading philosophy.
 
   <img align="right" alt="GIF" src="programming.gif" width="500" height="320" />
   
