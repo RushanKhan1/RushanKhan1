@@ -1,24 +1,24 @@
 # Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="33px">
 
 <a href="https://twitter.com/RushanKhan15">
-  <img align="left" alt="My Twitter" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="My Twitter" height="25px" src = "https://help.twitter.com/content/dam/help-twitter/brand/logo.png" />
 </a>
 <a href="https://www.linkedin.com/in/rushankhan/">
-  <img align="left" alt="My LinkedIn" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="My LinkedIn" height="25px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />
 </a>
 
 <a href="https://t.me/rushankhan1">
-  <img align="left" alt="My Telegram" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+  <img align="left" alt="My Telegram" height="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1024px-Telegram_logo.svg.png" />
  </a>
 <a href="https://www.dev.to/rushankhan1/">
-  <img align="left" alt="My Dev.to" height="25px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands-1/512/84_Dev_logo_logos-512.png" />
+  <img align="left" alt="My Dev.to" height="25px" src="https://d2fltix0v2e0sb.cloudfront.net/dev-black.png" />
 </a>
 
 <a href="https://www.hackernoon.com/u/rushankhan">
   <img align="left" alt="My Hackernoon" height="25px" src="https://hackernoon.com/hn-icon.png" />
 </a>
 <a href="https://www.instagram.com/rushankhan/">
-  <img align="left" alt="My Instagram" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="My Instagram" height="25px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png" />
 </a>
  <br /><br /><br />
 
