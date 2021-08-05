@@ -32,8 +32,10 @@ Ahoy! I am Rushan Khan, a passionate full-stack developer and a competitive prog
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" alt="html5" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
  <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
+ <a href="https://reactjs.org/" target="_blank"> <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" alt="reactjs" width="35" height="40"/> </a>
  <a href="https://expressjs.com/" target="_blank"> <img src="https://www.nextontop.com/assets/img/services/web/expressjs.svg" width="55" height="40"/> </a>
  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
   <a href="https://www.mongoosejs.com/" target="_blank"> <img src="https://images.opencollective.com/frontendmasters/0b9cda4/logo/256.png" alt="mongoose" width="40" height="40"/> </a>
@@ -43,7 +45,7 @@ Ahoy! I am Rushan Khan, a passionate full-stack developer and a competitive prog
 
 **Random stuff about me**
 
-- 👨🏽‍💻 I’m currently working on a web app.
+- 👨🏽‍💻 I’m currently interning at [Listiee](https://www.listiee.com) as a Full Stack Developer.
 - 🌱 I’m currently learning React.
 - <img src="https://i.imgur.com/B67ppkX.png" alt="Emacs Logo" width="21" height="21"/> I'm a huge emacs shill and acknowledge it to be the one true text editor.
 - 💬 Ask me about anything.
