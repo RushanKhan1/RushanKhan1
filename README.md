@@ -22,7 +22,7 @@
 </a>
  <br /><br /><br />
 
-Ahoy! I am Rushan Khan, a passionate full-stack developer and a competitive programmer. I like using technology to solve real world problems and making stuff that helps people. Some of my recent work positions were, working as a FullStack Developer Intern at [Listiee](listee.com), being the core member of the [Source Code Society](https://github.com/Source-Code-Society), being a program mentor for [GirlScript Summer of Code 2021](https://gssoc.girlscript.tech/) where I also maintained the Project [WordNook](https://github.com/ALPHAVIO/WordNook) along with that I was also the Media and Outreach Lead at [CodeChef Amity University Lucknow Chapter](https://www.linkedin.com/company/codechef-aul-chapter) 🧑🏻‍🍳. Apart from programming, I have inclinations toward entrepreneurship, observing business models and reading philosophy.
+Ahoy! I am Rushan Khan, a passionate full-stack developer and a competitive programmer. I like using technology to solve real world problems and making stuff that helps people. Some of my recent work positions are, working as a FullStack Developer Intern at [Listiee](listee.com), being the core member of the [Source Code Society](https://github.com/Source-Code-Society), being a program mentor for [GirlScript Summer of Code 2021](https://gssoc.girlscript.tech/) where I also maintained the Project [WordNook](https://github.com/ALPHAVIO/WordNook) along with that I was also the Media and Outreach Lead at [CodeChef Amity University Lucknow Chapter](https://www.linkedin.com/company/codechef-aul-chapter) 🧑🏻‍🍳. Apart from programming, I have inclinations toward entrepreneurship, observing business models and reading philosophy.
 
   <img align="right" alt="GIF" src="programming.gif" width="500" height="320" />
   
@@ -45,7 +45,7 @@ Ahoy! I am Rushan Khan, a passionate full-stack developer and a competitive prog
 
 **Random stuff about me**
 
-- 👨🏽‍💻 I’m currently interning at [Listiee](https://www.listiee.com) as a Full Stack Developer.
+- 👨🏽‍💻 I’m recently interned at [Listiee](https://www.listiee.com) as a Full Stack Developer.
 - 🌱 I’m currently learning React.
 - <img src="https://i.imgur.com/B67ppkX.png" alt="Emacs Logo" width="21" height="21"/> I'm a huge emacs shill and acknowledge it to be the one true text editor.
 - 💬 Ask me about anything.
