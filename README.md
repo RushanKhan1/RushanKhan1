@@ -45,7 +45,7 @@ Ahoy! I am Rushan Khan, a passionate full-stack developer and a competitive prog
 
 **Random stuff about me**
 
-- 👨🏽‍💻 I’m recently interned at [Listiee](https://www.listiee.com) as a Full Stack Developer.
+- 👨🏽‍💻 I've recently interned at [Listiee](https://www.listiee.com) as a Full Stack Developer.
 - 🌱 I’m currently learning React.
 - <img src="https://i.imgur.com/B67ppkX.png" alt="Emacs Logo" width="21" height="21"/> I'm a huge emacs shill and acknowledge it to be the one true text editor.
 - 💬 Ask me about anything.
