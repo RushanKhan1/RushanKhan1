@@ -4,7 +4,7 @@
   <img align="left" alt="My Twitter" height="25px" src = "https://help.twitter.com/content/dam/help-twitter/brand/logo.png" />
 </a>
 <a href="https://www.linkedin.com/in/rushankhan/">
-  <img align="left" alt="My LinkedIn" height="25px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />
+  <img align="left" alt="My LinkedIn" height="25px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
 </a>
 
 <a href="https://t.me/rushankhan1">
